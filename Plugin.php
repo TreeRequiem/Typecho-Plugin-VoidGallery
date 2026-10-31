@@ -10,7 +10,7 @@
  * @package VoidGallery
  * @author TreeRequiem
  * @version 1.0.0
- * @link https://github.com/TreeRequiem/VOID-Gallery-Plugin
+ * @link https://github.com/TreeRequiem/Typecho-Plugin-VoidGallery
  */
 
 if (!defined('__TYPECHO_ROOT_DIR__')) exit;
