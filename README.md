@@ -1,4 +1,4 @@
-# VOID-Gallery-Plugin
+# Typecho-Plugin-VoidGallery
 
 # VOID 图集短代码插件（VoidGallery）
 
